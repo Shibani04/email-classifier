@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+venv/
+env/
+.venv
+.env
+
+# Model files (large weights only)
+models/distilbert_finetuned/model.safetensors
+
+# Dataset files
+*.pkl
+*.csv
+*.xlsx
+*.json.gz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+results/
+
+# Credentials (VERY IMPORTANT)
+credentials.json
+token.json
+secrets.py
