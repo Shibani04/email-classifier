@@ -215,13 +215,15 @@ weighted avg       0.98      0.98      0.98      5162
 ## TRAINING SUMMARY
 
 ```
-Global Steps        : 1,938
-Training Loss       : 0.1664
-Training Runtime    : 685.31 seconds (~11.4 minutes)
-Samples per Second  : 90.375
-Steps per Second    : 2.828
-Total FLOPs         : 2.05 × 10¹⁵
-Epochs Completed    : 3
+• Model: DistilBERT (distilbert-base-uncased)
+• Dataset Size: 25,807 Emails
+• Epochs: 3
+• Batch Size: 32
+• Optimizer: AdamW
+• Hardware: Google Colab T4 GPU
+• Training Loss: 0.1664
+• Accuracy: 98%
+• Macro F1 Score: 0.97
 ```
 
 ---
