@@ -334,4 +334,13 @@ email_classifier/
 #### CONTEXT-AWARE SUPPORT CLASSIFICATION
 <img width="1505" height="828" alt="image" src="https://github.com/user-attachments/assets/a735406b-e1ca-49bc-b187-9bbb4242721e" />
 
+## MY CONTRIBUTIONS
+
+- Collected and combined Enron and HuggingFace email datasets
+- Built the NLP preprocessing pipeline
+- Fine-tuned DistilBERT for multi-class email classification
+- Developed live inbox integration using IMAP
+- Designed and implemented the Streamlit web application
+- Evaluated model performance using Precision, Recall and F1-Score
+
 
