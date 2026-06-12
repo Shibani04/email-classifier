@@ -1,4 +1,4 @@
-<h1 align="center">AUTOMATED EMAIL CLASSIFICATION USING GENAI-ENHANCED MODELS</h1>
+<img width="1505" height="828" alt="image" src="https://github.com/user-attachments/assets/9daafcb5-1cbd-44bc-9091-00466a38dfae" /><h1 align="center">AUTOMATED EMAIL CLASSIFICATION USING GENAI-ENHANCED MODELS</h1>
 <p align="center">An intelligent AI-powered system that automatically classifies emails into 4 categories — Personal, Spam, Promotions, and Support — using Fine-tuned DistilBERT with <strong>98% accuracy</strong>.</p>
 
 ---
@@ -316,3 +316,22 @@ email_classifier/
 - Add automated email reply suggestions based on category
 - Integrate Gmail OAuth API for secure authentication
 - Build a REST API endpoint for enterprise integration
+
+# APPLICATION SCREENSHOTS
+
+## Live Inbox Classification
+<img width="1527" height="826" alt="image" src="https://github.com/user-attachments/assets/1eed46cf-0aac-4244-bc66-9abf758e2a16" />
+
+
+## Personal Email Classification
+<img width="1512" height="816" alt="image" src="https://github.com/user-attachments/assets/78154114-abc7-41ed-87ba-8232ae33ca59" />
+
+
+## Spam Email Detection
+<img width="1508" height="820" alt="image" src="https://github.com/user-attachments/assets/98addc28-bc2e-46a9-ac1f-4529415c870d" />
+
+
+## Context-Aware Support Classification
+<img width="1505" height="828" alt="image" src="https://github.com/user-attachments/assets/a735406b-e1ca-49bc-b187-9bbb4242721e" />
+
+
