@@ -317,21 +317,21 @@ email_classifier/
 - Integrate Gmail OAuth API for secure authentication
 - Build a REST API endpoint for enterprise integration
 
-# APPLICATION SCREENSHOTS
+## APPLICATION SCREENSHOTS
 
-## Live Inbox Classification
+#### LIVE INBOX CLASSIFICATION
 <img width="1527" height="826" alt="image" src="https://github.com/user-attachments/assets/1eed46cf-0aac-4244-bc66-9abf758e2a16" />
 
 
-## Personal Email Classification
+#### PERSONAL EMAIL CLASSIFICATION
 <img width="1512" height="816" alt="image" src="https://github.com/user-attachments/assets/78154114-abc7-41ed-87ba-8232ae33ca59" />
 
 
-## Spam Email Detection
+#### SPAM EMAIL DETECTION
 <img width="1508" height="820" alt="image" src="https://github.com/user-attachments/assets/98addc28-bc2e-46a9-ac1f-4529415c870d" />
 
 
-## Context-Aware Support Classification
+#### CONTEXT-AWARE SUPPORT CLASSIFICATION
 <img width="1505" height="828" alt="image" src="https://github.com/user-attachments/assets/a735406b-e1ca-49bc-b187-9bbb4242721e" />
 
 
