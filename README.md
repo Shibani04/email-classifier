@@ -248,7 +248,7 @@ models/
 
 **Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/email-classifier.git
+git clone https://github.com/Shibani04/email-classifier.git
 cd email-classifier
 ```
 
