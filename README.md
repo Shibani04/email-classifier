@@ -1,4 +1,4 @@
-<img width="1505" height="828" alt="image" src="https://github.com/user-attachments/assets/9daafcb5-1cbd-44bc-9091-00466a38dfae" /><h1 align="center">AUTOMATED EMAIL CLASSIFICATION USING GENAI-ENHANCED MODELS</h1>
+<h1 align="center">AUTOMATED EMAIL CLASSIFICATION USING GENAI-ENHANCED MODELS</h1>
 <p align="center">An intelligent AI-powered system that automatically classifies emails into 4 categories — Personal, Spam, Promotions, and Support — using Fine-tuned DistilBERT with <strong>98% accuracy</strong>.</p>
 
 ---
